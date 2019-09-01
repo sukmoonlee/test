@@ -3,11 +3,10 @@ test
 
 ![Alt text](/docs/intro.png "Packetlog Introduce")
 
-## dnslog
+## dnslog [dnslog 바로가기](dnslog/README.md)
 * DNS 프로토콜을 분석
-
+* [dnslog 바로가기](dnslog/README.md)
 [dnslog 바로가기](dnslog/README.md)
-[a relative link](dnslog/README.md)
 
 ## httplog
 * HTTP 프로토콜을 분석
